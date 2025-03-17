@@ -1,7 +1,7 @@
 var typed = new typed('.text', {
     strings: ["Mechanical Engineer", "Coder", "Web Developer", "Designer", "Freelancer"],
-    typeSpeed: 50,
-    backSpeed: 50,
-    loop: true,
-    backDelay: 1000
+    typeSpeed: 100,
+    backSpeed: 100,
+    backDelay: 1000,
+    loop:true
 });
